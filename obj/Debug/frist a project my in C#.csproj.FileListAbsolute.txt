@@ -1,0 +1,11 @@
+C:\Users\تنميروكا\source\repos\frist a project my in C#\bin\Debug\frist a project my in C#.exe.config
+C:\Users\تنميروكا\source\repos\frist a project my in C#\bin\Debug\frist a project my in C#.exe
+C:\Users\تنميروكا\source\repos\frist a project my in C#\bin\Debug\frist a project my in C#.pdb
+C:\Users\تنميروكا\source\repos\frist a project my in C#\obj\Debug\frist a project my in C#.csproj.AssemblyReference.cache
+C:\Users\تنميروكا\source\repos\frist a project my in C#\obj\Debug\frist_a_project_my_in_C_.Form1.resources
+C:\Users\تنميروكا\source\repos\frist a project my in C#\obj\Debug\frist_a_project_my_in_C_.Properties.Resources.resources
+C:\Users\تنميروكا\source\repos\frist a project my in C#\obj\Debug\frist a project my in C#.csproj.GenerateResource.cache
+C:\Users\تنميروكا\source\repos\frist a project my in C#\obj\Debug\frist a project my in C#.csproj.CoreCompileInputs.cache
+C:\Users\تنميروكا\source\repos\frist a project my in C#\obj\Debug\frist a project my in C#.exe
+C:\Users\تنميروكا\source\repos\frist a project my in C#\obj\Debug\frist a project my in C#.pdb
+C:\Users\تنميروكا\source\repos\frist a project my in C#\obj\Debug\frist a project my in C#.exe.config
